@@ -3,23 +3,6 @@ i love you
 <!HTMLDOC html>
 <html> 
 <head>
-      <title> LuvvvvUuuu </title>
-      heieee cutieeee
-      <h1 style="font-size:40;">love me like u do</h1>
-      <h2>like u do</h2>
-      <h3>  like u do</h3>
-      <h4>  like u do </h4>
-      <h5> me like u do </h5>
-      <h6> what are u waiting for? </h6> 
-</head>
-<body> 
-      <img src=C:"\Users\intel\Downloads\moon\moon.jpg"alt="pointer definition"height=300 width=500>
-            uyire uyire uyir needhan endraal
-       <p style="color:orange;">nee paarttha vizhigal <p/>udane varuvaai udal saaayum munnaal;
-          <br>anal indri kulir veesum;
-          <br>idhu endhan sir;
-         <hr> idhil nee mattum vendum penne </p>
-     <a href= "www.youtube.com"> youtube </a>
-     <pre> hai da junney             dancing </pre>
+      
 </body>
       
